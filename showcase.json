@@ -1,0 +1,29 @@
+[
+  {
+    "id": "web_templates",
+    "title": "Web_Templates",
+    "meta": "WEB_DESIGN_CAPABILITY",
+    "status": "LIVE",
+    "links": [
+      {
+        "title": "Project Name",
+        "href": "https://studio-draft.pages.dev/",
+        "meta": "Web Design Mockups"
+      }
+    ]
+  },
+  {
+    "id": "applications",
+    "title": "Applications",
+    "meta": "/COMING_SOON",
+    "status": "/COMING_SOON",
+    "links": []
+  },
+  {
+    "id": "systems",
+    "title": "Systems",
+    "meta": "/COMING_SOON",
+    "status": "/COMING_SOON",
+    "links": []
+  }
+]
