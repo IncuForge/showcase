@@ -6,12 +6,12 @@
     "status": "LIVE",
     "links": [
       {
-        "title": "Studio Draft (Simple Landing Website)",
+        "title": "Studio Draft (Landing Website for Studios/Design oriented template)",
         "href": "https://studio-draft.pages.dev/",
         "meta": "Web Design Mockups"
       },
       {
-        "title": "Resto Draft (NextJS Landing Website with GSAP animations)",
+        "title": "Resto Draft (Landing Website for Restaurants with GSAP animations)",
         "href": "https://resto-draft.pages.dev/",
         "meta": "Web Design Mockups"
       }
