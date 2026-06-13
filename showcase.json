@@ -9,6 +9,11 @@
         "title": "Studio Draft (Simple Landing Website)",
         "href": "https://studio-draft.pages.dev/",
         "meta": "Web Design Mockups"
+      },
+      {
+        "title": "Resto Draft (NextJS Landing Website with GSAP animations)",
+        "href": "https://resto-draft.pages.dev/",
+        "meta": "Web Design Mockups"
       }
     ]
   },
